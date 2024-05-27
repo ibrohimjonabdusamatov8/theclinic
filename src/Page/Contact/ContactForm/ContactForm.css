@@ -1,0 +1,84 @@
+.input__cantact {
+    max-width: 1160px;
+    height: 354.19px;
+    border-radius: 16px;
+    background: #FFFFFFF5;
+    box-shadow: 0px 10px 40px 0px #00000014;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.name-container {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: -50px;
+    margin-top: 50px;
+}
+
+.name-container .good__1 {
+    width: 524px;
+    height: 45px;
+    padding-left: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid #D6DFE7F5;
+    font-family: Heebo;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: -50px;
+    margin-left: 50px;
+}
+
+.name-container .good__2 {
+    width: 524px;
+    height: 45px;
+    padding-left: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid #D6DFE7F5;
+    font-family: Heebo;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: -50px;
+}
+
+textarea {
+    resize: none;
+    border-radius: 20px;
+    margin-top: 20px;
+    background: #FFFFFFF5;
+    border: 1px solid #D6DFE7F5;
+    padding: 20px;
+    outline: none;
+    font-family: Heebo;
+    font-size: 14px;
+    font-weight: 400;
+    width: 1112px;
+    height: 150px;
+    margin-left: -40px;
+    display: flex;
+}
+
+.cantacr__input__df {
+    padding-left: 40px;
+}
+
+.cantacr__input__df button {
+    width: 144.45px;
+    height: 45.19px;
+    border-radius: 100px;
+    margin-top: 30px;
+    margin-left: -40px;
+    border: none;
+    background: #386BEAF5;
+    font-family: Heebo;
+    font-size: 14.4px;
+    font-weight: 400;
+    line-height: 27.2px;
+    color: #fff;
+}
